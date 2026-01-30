@@ -12,3 +12,18 @@ pip install uv
 cd adk-demos
 uv sync
 ```
+4. 激活环境
+```
+.venv\Scripts\activate
+```
+
+## Agents
+
+### 1. my_agent
+提供mock的时间查询工具供agent调用
+
+[参考文档](https://adk.wiki/get-started/python/#create-an-agent-project)
+
+```
+adk run my_agent
+```
