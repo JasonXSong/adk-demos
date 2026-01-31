@@ -31,6 +31,12 @@ uv sync
 [参考文档](https://adk.wiki/get-started/quickstart/#create-agent-project)
 
 
+### 3. weather_agent_v1
+在my_agent的基础上，添加了session和runner
+
+[参考文档](https://adk.wiki/tutorials/agent-team/#step-your-first-agent-basic-weather-lookup)
+
+
 ## 常用adk命令
 创建智能体项目
 ```
