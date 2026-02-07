@@ -37,6 +37,17 @@ uv sync
 [参考文档](https://adk.wiki/tutorials/agent-team/#step-your-first-agent-basic-weather-lookup)
 
 
+### 4. weather_agent_team
+在weather_agent_v1的基础上，添加sub-agent、防护callback、状态ToolContext等功能。
+
+```
+cd weather_agent_team
+uv run main.py
+```
+
+[参考文档](https://adk.wiki/tutorials/agent-team/#step-building-an-agent-team-delegation-for-greetings-farewells)
+
+
 ## 常用adk命令
 创建智能体项目
 ```
